@@ -1,0 +1,23 @@
+{
+  "name": "friend_finder",
+  "version": "1.0.0",
+  "description": "This is My friend finder or find a date",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdgardMAv/FriendFinder.git"
+  },
+  "author": "Edgard Munoz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EdgardMAv/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/EdgardMAv/FriendFinder#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
